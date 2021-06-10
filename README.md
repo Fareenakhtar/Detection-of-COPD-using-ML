@@ -1,1 +1,1 @@
-# SHAIK_FAREEN_AKHTAR_201046038_DOUBLE_LINKED_LIST_ASSIGNMENT
+# Detection of COPD (Chronic Obstructive Pulmonary Disease) using Machine learning
